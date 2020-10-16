@@ -13,6 +13,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.researchgate.net/profile/Robert_Kiewisz" target="blank"><img align="center" src="https://roseybillington.files.wordpress.com/2019/03/researchgate_cr.png" alt="robert-kiewisz" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/robert-kiewisz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="robert-kiewisz" height="30" width="40" /></a>
 <a href="https://instagram.com/@artscience_kerth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@artscience_kerth" height="30" width="40" /></a>
 </p>
