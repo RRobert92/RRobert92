@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrobert92&label=Profile%20views&color=0e75b6&style=flat" alt="rrobert92" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rrobert92" alt="rrobert92" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rrobert92&theme=onedark" alt="rrobert92" /></a> </p>
 
 - 🔭 I’m currently working on [Automatic analysis of microtubule ultrastructure](https://github.com/RRobert92/MT_Analysis)
 
