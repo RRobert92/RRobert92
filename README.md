@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Machine learning models and workflows in EM and Cryo-EM**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RRobert92](https://github.com/RRobert92)
-
 - 📫 How to reach me **rkiewisz@nysbc.org**
 
 <p align="left">
