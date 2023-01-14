@@ -16,6 +16,7 @@
 <a href="https://linkedin.com/in/robert-kiewisz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="robert-kiewisz" height="40" width="40" /></a>
 
 <a href="https://instagram.com/artscience_kerth" target="blank"><img align="center" src="https://www.adverthia.com/wp-content/uploads/2020/02/instagram-logo-png-transparent-background-1024x1024-1.png" alt="artscience_kerth" height="40" width="40" /></a>
+<p align="left"> <a href="https://twitter.com/RKiewisz" target="blank"><img src="https://img.shields.io/twitter/follow/RKiewisz?logo=twitter&style=for-the-badge" alt="robetkiewisz" /></a> </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
