@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">A passionate structural and computational biologist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rrobert92&label=Profile%20views&color=0e75b6&style=flat" alt="rrobert92" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rrobert92&theme=darkhub&column=-1" alt="rrobert92" /></a> </p>
+# About me
 
 - 🔭 I’m currently working on **Machine learning models and workflows in EM and Cryo-EM**
 
@@ -15,9 +12,10 @@
 <a href="https://linkedin.com/in/robert-kiewisz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="robert-kiewisz" height="40" width="40" /></a>
 <a href="https://instagram.com/artscience_kerth" target="blank"><img align="center" src="https://www.adverthia.com/wp-content/uploads/2020/02/instagram-logo-png-transparent-background-1024x1024-1.png" alt="artscience_kerth" height="40" width="40" /></a>
 </p>
-
 <p align="left"> <a href="https://twitter.com/RKiewisz" target="blank"><img src="https://img.shields.io/twitter/follow/RKiewisz?logo=twitter&style=for-the-badge" alt="robetkiewisz" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRobert92&layout=compact" alt="robetkiewisz" /></p>
+# Tech stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RRobert92&show_icons=true" alt="robetkiewisz" /></p>
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,qt,aws,fastapi,r,django,git,css,electron,arduino,blender&perline=4)](https://skillicons.dev)
+
+![RRobert92's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrobert92\&rank_icon=github)
