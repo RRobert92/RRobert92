@@ -57,11 +57,9 @@
   ---
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,django,r,aws,qt,electron,git,blender,arduino,css&perline=6" alt="tech 
-  stack" />                                                                                                            
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=RRobert92&show_icons=true&hide_border=true&rank_icon=github&
-  include_all_commits=true" alt="stats" />
-    <img height="150" 
+  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,django,r,aws,qt,electron,git,blender,arduino,css&perline=6" alt="tech 
+  stack" />        
+  <img height="150" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRobert92&layout=compact&hide_border=true&langs_count=6" alt="top 
   langs" />
   </p>
